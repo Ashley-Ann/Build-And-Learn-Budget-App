@@ -1,0 +1,51 @@
+[class*="col-"] {
+	clear: both;
+	border: 2px solid rgba(0, 0, 0, 0);
+}
+
+.bg {
+	background-image: url("./images/clouds.jpg");
+	/* Half height */
+	height: 20rem; 
+
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.app-head {
+	text-align: center;
+}
+.app-title {
+	font-size: 1.5rem;
+}
+.app-balance {
+	font-size: 2.2rem;
+}
+
+#income {
+	width: 40%;
+	margin: 30px 5px 10px 275px;
+	text-transform: uppercase;
+	
+}
+
+#expenses {
+	width: 40%;
+	margin: 10px 5px 10px 275px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
